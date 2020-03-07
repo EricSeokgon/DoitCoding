@@ -1,4 +1,6 @@
-package elice;
+package elice.day1;
+
+import elice.코딩별;
 
 public class 변수선언하기 {
 

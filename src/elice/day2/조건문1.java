@@ -1,4 +1,6 @@
-package elice;
+package elice.day2;
+
+import elice.코딩별;
 
 public class 조건문1 {
 
